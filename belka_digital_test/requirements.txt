@@ -1,0 +1,8 @@
+flask
+flask_restful
+numpy
+pandas
+pickle
+json
+scikit-learn
+requests
